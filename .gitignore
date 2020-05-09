@@ -1,0 +1,14 @@
+/node_modules/
+
+.DS_Store
+
+# FaunaDB API Key
+.faunarc
+.env
+
+# production
+/functions-build
+/public/build
+
+# Local Netlify folder
+.netlify
